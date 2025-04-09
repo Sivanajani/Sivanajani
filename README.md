@@ -31,7 +31,7 @@ Prometheus · Grafana · Netdata · cAdvisor
 | 🔬 [HistoApp](https://github.com/Sivanajani/HistoApp) | Web app to manage histology image data using Docker, React & Spring Boot |
 | 🧾 [Anamnesis Analysis](https://github.com/Sivanajani/Anamnese-Formular) | Automated analysis of medical PDFs incl. OCR, checkbox recognition & CSV export |
 | 🤖 [Emotion Detection (ViT)](https://github.com/Sivanajani/Emotion-Recognition-with-Vision-Transformer) | Emotion recognition with a fine-tuned Vision Transformer using the FER dataset |
-| 🌌 [Region Growing](https://github.com/Sivanajani/RegionGrowingLabeln) | Python tool for automated star segmentation in images using the Flood-Fill algorithm |
+| 🌌 [Region Growing](https://github.com/Sivanajani/RegionGrowingLabeln) | Python tool for automated star segmentation in images using the flood-fill algorithm |
 | 🧠 [Parkinson Dataset Analysis](https://github.com/Sivanajani/Parkinson-Datensatzanalyse) | Voice data analysis of Parkinson patients incl. visualizations & feature engineering |
 
 ---
@@ -44,9 +44,9 @@ Prometheus · Grafana · Netdata · cAdvisor
 </p>
 
 📍 Aargau, Schweiz  
-📧 Kontakt auf Anfrage 
+📧 Contact details available upon request    
 
 ---
 
 ## 🌱 Currently working on...
-... my Bachelor thesis on data quality analysis in sarcoma care, while deepening my skills in web development, DevOps and data science.
+... my Bachelor thesis on data quality analysis in sarcoma care using R Shiny, while strengthening my expertise in interactive dashboards, data science, and DevOps.
