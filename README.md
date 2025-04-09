@@ -36,7 +36,7 @@ My focus lies in frontend development, but I'm also enthusiastic about backend s
   </a>
 </p>
 
-📍 Basel, Schweiz  
+📍 Aargau, Schweiz  
 📧 Kontakt auf Anfrage 
 
 ---
