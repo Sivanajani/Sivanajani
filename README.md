@@ -7,13 +7,20 @@ My focus lies in frontend development, but I'm also enthusiastic about backend s
 
 ## 🚀 Tech Stack
 
-**Languages:** Python · Java · JavaScript · TypeScript · Google Apps Script · Kotlin · C · C++  
-**Frameworks:** React · Spring Boot · Node.js · Vite  
-**Infrastructure & Tools:** Docker · Apache · PostgreSQL · Orthanc (Open-Source PACS for DICOM) · Linux  
-**Data Science & Analytics:** Data analysis/visualization · NumPy · Pandas · Vision Transformer (ViT) · Classification · Model optimization · Medical datasets (e.g., Parkinson)  
-**Monitoring:** Prometheus · Grafana · Netdata · cAdvisor  
-**Security & Auth:** Keycloak (SSO, OAuth2)  
-**DevOps & CI/CD:** GitHub Actions · CI/CD Workflows  
+**Languages:**   
+Python · Java · JavaScript · TypeScript · Google Apps Script · Kotlin · C · C++  
+**Frameworks & Libraries:**  
+React · Spring Boot · React Router · Zustand · Tailwind CSS · Material UI · Framer Motion · Hibernate · MapStruct       
+**Build Tools & Runtimes:**  
+Node.js · Vite  
+**Infrastructure & Deployment Tools:**   
+Docker · Apache · PostgreSQL · Orthanc · Linux  
+**Data Science & Analytics:**  
+Experience with NumPy and Pandas for data analysis and visualization, implementation of classification models including Vision Transformer (ViT), and application to medical datasets (e.g., Parkinson).  
+**DevOps & CI/CD:**  
+GitHub Actions · CI/CD Workflows · Infrastructure Monitoring   
+**Infrastructure Monitoring:**  
+Prometheus · Grafana · Netdata · cAdvisor  
 
 ---
 
