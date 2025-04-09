@@ -9,11 +9,11 @@ My focus lies in frontend development, but I'm also enthusiastic about backend s
 
 **Languages:** Python · Java · JavaScript · TypeScript · Google Apps Script · Kotlin · C · C++  
 **Frameworks:** React · Spring Boot · Node.js · Vite  
-**Infrastructure & Tools:** Docker · Apache · PostgreSQL · Orthanc (Open-Source PACS for DICOM) · Linux 
-**Data Science & Analytics:** Data analysis · Data visualization · NumPy · Pandas · Jupyter · Vision Transformer (ViT) · Classification · Model optimization · Medical datasets (e.g., Parkinson)
-**Monitoring:** Prometheus · Grafana · Netdata · cAdvisor
-**Security & Auth:** Keycloak (SSO, OAuth2)
-**DevOps & CI/CD:** GitHub Actions · CI/CD Workflows
+**Infrastructure & Tools:** Docker · Apache · PostgreSQL · Orthanc (Open-Source PACS for DICOM) · Linux  
+**Data Science & Analytics:** Data analysis/visualization · NumPy · Pandas · Vision Transformer (ViT) · Classification · Model optimization · Medical datasets (e.g., Parkinson)  
+**Monitoring:** Prometheus · Grafana · Netdata · cAdvisor  
+**Security & Auth:** Keycloak (SSO, OAuth2)  
+**DevOps & CI/CD:** GitHub Actions · CI/CD Workflows  
 
 ---
 
@@ -24,8 +24,8 @@ My focus lies in frontend development, but I'm also enthusiastic about backend s
 | 🔬 [HistoApp](https://github.com/Sivanajani/HistoApp) | Web app to manage histology image data using Docker, React & Spring Boot |
 | 🧾 [Anamnesis Analysis](https://github.com/Sivanajani/Anamnese-Formular) | Automated analysis of medical PDFs incl. OCR, checkbox recognition & CSV export |
 | 🤖 [Emotion Detection (ViT)](https://github.com/Sivanajani/Emotion-Recognition-with-Vision-Transformer) | Emotion recognition with a fine-tuned Vision Transformer using the FER dataset |
-| 🧠 [Parkinson Dataset Analysis](https://github.com/Sivanajani/Parkinson-Datensatzanalyse) | Voice data analysis of Parkinson patients incl. visualizations & feature engineering |
 | 🌌 [Region Growing](https://github.com/Sivanajani/RegionGrowingLabeln) | Python tool for automated star segmentation in images using the Flood-Fill algorithm |
+| 🧠 [Parkinson Dataset Analysis](https://github.com/Sivanajani/Parkinson-Datensatzanalyse) | Voice data analysis of Parkinson patients incl. visualizations & feature engineering |
 
 ---
 
