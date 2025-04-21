@@ -21,6 +21,8 @@ I'm passionate about combining **IT, healthcare, and organization** – with a f
 
 | Project | Description |
 |--------|-------------|
+| 📱 [QR Code Generator](https://github.com/Sivanajani/qr-desktop-app) | Desktop app to create high-res QR codes with embedded logos (Tkinter + PyInstaller) |
+| 🌐 [Portfolio Website](https://github.com/Sivanajani/portfolio) | Responsive personal website built with React, Vite & TypeScript – includes multilingual support, project showcase, and contact form  |
 | 🔬 [HistoApp](https://github.com/Sivanajani/HistoApp) | Web app to manage histology image data using Docker, React & Spring Boot |
 | 🧾 [Anamnesis Analysis](https://github.com/Sivanajani/Anamnese-Formular) | Automated analysis of medical PDFs incl. OCR, checkbox recognition & CSV export |
 | 🤖 [Emotion Detection (ViT)](https://github.com/Sivanajani/Emotion-Recognition-with-Vision-Transformer) | Emotion recognition with a fine-tuned Vision Transformer using the FER dataset |
@@ -34,7 +36,11 @@ I'm passionate about combining **IT, healthcare, and organization** – with a f
   <a href="https://www.linkedin.com/in/sivanajani-sivakumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sivanajani-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
   </a>
+  <a href="https://sivanajani.ch/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-sivanajani.ch-green?style=for-the-badge&logo=google-chrome" alt="Portfolio Website">
+  </a>
 </p>
+
 
 📍 Basel, Schweiz  
 📧 Kontakt auf Anfrage 
@@ -42,4 +48,4 @@ I'm passionate about combining **IT, healthcare, and organization** – with a f
 ---
 
 ## 🌱 Currently working on...
-... my Bachelor thesis on data quality analysis in sarcoma care, while deepening my skills in web development, DevOps and data science.
+... my Bachelor thesis on data quality analysis in sarcoma care, while deepening my skills in web development, DevOps and data science.              
