@@ -9,16 +9,22 @@ My focus lies in frontend development, but I'm also enthusiastic about backend s
 
 **Languages:**   
 Python · Java · JavaScript · TypeScript · Google Apps Script · Kotlin · C · C++  
+
 **Frameworks & Libraries:**  
-React · Spring Boot · React Router · Zustand · Tailwind CSS · Material UI · Framer Motion · Hibernate · MapStruct       
+React · Spring Boot · React Router · Zustand · Tailwind CSS · Material UI · Framer Motion · Hibernate · MapStruct · Streamlit · spaCy       
+
 **Build Tools & Runtimes:**  
 Node.js · Vite  
+
 **Infrastructure & Deployment Tools:**   
 Docker · Apache · PostgreSQL · Orthanc · Linux  
+
 **Data Science & Analytics:**  
-Experience with NumPy and Pandas for data analysis and visualization, implementation of classification models including Vision Transformer (ViT), and application to medical datasets (e.g., Parkinson).  
+Experience with NumPy and Pandas for data analysis and visualization, implementation of classification models including Vision Transformer (ViT), application to medical datasets (e.g., Parkinson) and NLP-based keyword extraction using spaCy.  
+
 **DevOps & CI/CD:**  
 GitHub Actions · CI/CD Workflows · Infrastructure Monitoring   
+
 **Infrastructure Monitoring:**  
 Prometheus · Grafana · Netdata · cAdvisor  
 
@@ -28,6 +34,7 @@ Prometheus · Grafana · Netdata · cAdvisor
 
 | Project | Description |
 |--------|-------------|
+| 🎬 [YouTagger – Video Tag Optimizer](https://github.com/Sivanajani/youtagger) | Lightweight Streamlit app that extracts relevant YouTube tags from video titles and descriptions using spaCy – supports both English and German. |
 | 📱 [QR Code Generator](https://github.com/Sivanajani/qr-desktop-app) | Desktop app to create high-res QR codes with embedded logos (Tkinter + PyInstaller) |
 | 🌐 [Portfolio Website](https://github.com/Sivanajani/portfolio) | Responsive personal website built with React, Vite & TypeScript – includes multilingual support, project showcase, and contact form  |
 | 🔬 [HistoApp](https://github.com/Sivanajani/HistoApp) | Web app to manage histology image data using Docker, React & Spring Boot |
