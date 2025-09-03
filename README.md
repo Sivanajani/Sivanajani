@@ -34,6 +34,7 @@ Prometheus · Grafana · Netdata · cAdvisor
 
 | Project | Description |
 |--------|-------------|
+| 📊 [Sarcoma Dashboard](https://github.com/Sivanajani/sarcoma-dashboard) | Bachelor thesis project: Data quality dashboard for PROM & CROM datasets in sarcoma care at the Cantonal Hospital Lucerne |
 | 🎬 [YouTagger – Video Tag Optimizer](https://github.com/Sivanajani/youtagger) | Lightweight Streamlit app that extracts relevant YouTube tags from video titles and descriptions using spaCy – supports both English and German. |
 | 📱 [QR Code Generator](https://github.com/Sivanajani/qr-desktop-app) | Desktop app to create high-res QR codes with embedded logos (Tkinter + PyInstaller) |
 | 🌐 [Portfolio Website](https://github.com/Sivanajani/portfolio) | Responsive personal website built with React, Vite & TypeScript – includes multilingual support, project showcase, and contact form  |
@@ -62,4 +63,4 @@ Prometheus · Grafana · Netdata · cAdvisor
 ---
 
 ## 🌱 Currently working on...
-... my Bachelor thesis on data quality analysis in sarcoma care, while deepening my skills in web development, DevOps and data science.
+... a modern website for a local grocery store. Focus: clear opening hours, weekly deals, seasonal highlights, and a showcase of local producers.
