@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile! 👋
 
-Hi, I'm **Sivanajani**, a Medical Informatics (B.Sc.) student at FHNW with a strong passion for software development and data science.  
+Hi, I'm **Sivanajani**, a Medical Informatics (M.Sc.) student at FHNW with a strong passion for software development and data science.  
 My focus lies in frontend development, but I'm also enthusiastic about backend systems, infrastructure, and data-driven applications.
 
 ---
