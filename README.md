@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=38B2AC&center=true&vCenter=true&width=560&lines=Building+software+for+healthcare;React+%C2%B7+TypeScript+%C2%B7+FastAPI+%C2%B7+NestJS;Cloud%2C+CI%2FCD+and+AI-assisted+workflows" alt="Typing SVG" />
 
+<p><b>You can call me Najani</b> &nbsp;<sub>pronounced <i>na-YEH-nee</i></sub></p>
+
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sivanajani.ch-38B2AC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sivanajani.ch)
@@ -18,6 +20,7 @@
 
 ```yaml
 name:      Sivanajani Sivakumar
+call me:   Najani            # pronounced na-YEH-nee
 role:      Software Engineer, Medical Informatics
 education: B.Sc. Medical Informatics (FHNW) → M.Sc. Medical Informatics (in progress)
 focus:     [ digital health, clinical data, AI-assisted workflows ]
@@ -153,8 +156,7 @@ Mobile companion app for patients with chronic inflammatory bowel conditions. Sy
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://api.iconify.design/lucide/file-search-2.svg?color=%2338b2ac" width="20" align="top"> [pdfRAG](https://github.com/Sivanajani/pdfrag)
-![PoC](https://img.shields.io/badge/proof_of_concept-38B2AC?style=flat-square)
+### <img src="https://api.iconify.design/lucide/file-search-2.svg?color=%2338b2ac" width="20" align="top"> pdfRAG
 ![Private](https://img.shields.io/badge/private-not_public-64748B?style=flat-square)
 
 Retrieval augmented generation for medical PDFs. Classifies clinical reports (radiology, pathology, surgery and more) and extracts structured data.
@@ -240,23 +242,28 @@ My personal site. Trilingual (EN/DE/FR), fully responsive, with scroll animation
 
 ---
 
-## <img src="https://api.iconify.design/simple-icons/github.svg?color=%2338b2ac" width="22" align="top"> GitHub
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2338b2ac" width="22" align="top"> Education
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Followers](https://img.shields.io/github/followers/Sivanajani?style=for-the-badge&logo=github&label=Followers&color=38B2AC&labelColor=1a3a6b)](https://github.com/Sivanajani?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Sivanajani?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=38B2AC&labelColor=1a3a6b)](https://github.com/Sivanajani?tab=repositories)
+### <img src="https://api.iconify.design/lucide/book-open.svg?color=%2338b2ac" width="18" align="top"> M.Sc. Medical Informatics
+**FHNW, School of Life Sciences** &nbsp;·&nbsp; ![in progress](https://img.shields.io/badge/in_progress-38B2AC?style=flat-square)
 
-</div>
+Clinical decision support, health data standards and applied AI in a clinical context.
 
-| Repository | Language | Last commit |
-|---|---|---|
-| [pdfrag](https://github.com/Sivanajani/pdfrag) | ![lang](https://img.shields.io/github/languages/top/Sivanajani/pdfrag?style=flat-square&color=38B2AC&labelColor=1a3a6b) | ![commit](https://img.shields.io/github/last-commit/Sivanajani/pdfrag?style=flat-square&color=2B6CB0&labelColor=1a3a6b) |
-| [smart-wound-guideline-app](https://github.com/Sivanajani/smart-wound-guideline-app) | ![lang](https://img.shields.io/github/languages/top/Sivanajani/smart-wound-guideline-app?style=flat-square&color=38B2AC&labelColor=1a3a6b) | ![commit](https://img.shields.io/github/last-commit/Sivanajani/smart-wound-guideline-app?style=flat-square&color=2B6CB0&labelColor=1a3a6b) |
-| [sarcoma-dashboard](https://github.com/Sivanajani/sarcoma-dashboard) | ![lang](https://img.shields.io/github/languages/top/Sivanajani/sarcoma-dashboard?style=flat-square&color=38B2AC&labelColor=1a3a6b) | ![commit](https://img.shields.io/github/last-commit/Sivanajani/sarcoma-dashboard?style=flat-square&color=2B6CB0&labelColor=1a3a6b) |
-| [HistoApp](https://github.com/Sivanajani/HistoApp) | ![lang](https://img.shields.io/github/languages/top/Sivanajani/HistoApp?style=flat-square&color=38B2AC&labelColor=1a3a6b) | ![commit](https://img.shields.io/github/last-commit/Sivanajani/HistoApp?style=flat-square&color=2B6CB0&labelColor=1a3a6b) |
-| [portfolio](https://github.com/Sivanajani/portfolio) | ![lang](https://img.shields.io/github/languages/top/Sivanajani/portfolio?style=flat-square&color=38B2AC&labelColor=1a3a6b) | ![commit](https://img.shields.io/github/last-commit/Sivanajani/portfolio?style=flat-square&color=2B6CB0&labelColor=1a3a6b) |
+</td>
+<td width="50%" valign="top">
 
+### <img src="https://api.iconify.design/lucide/award.svg?color=%2338b2ac" width="18" align="top"> B.Sc. Medical Informatics
+**FHNW, School of Life Sciences** &nbsp;·&nbsp; ![completed](https://img.shields.io/badge/completed-2B6CB0?style=flat-square)
+
+Thesis: data quality dashboard for PROM and CROM datasets in sarcoma care, with the Cantonal Hospital Lucerne.
+
+</td>
+</tr>
+</table>
 
 ---
 
