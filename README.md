@@ -155,6 +155,7 @@ Mobile companion app for patients with chronic inflammatory bowel conditions. Sy
 
 ### <img src="https://api.iconify.design/lucide/file-search-2.svg?color=%2338b2ac" width="20" align="top"> [pdfRAG](https://github.com/Sivanajani/pdfrag)
 ![PoC](https://img.shields.io/badge/proof_of_concept-38B2AC?style=flat-square)
+![Private](https://img.shields.io/badge/private-not_public-64748B?style=flat-square)
 
 Retrieval augmented generation for medical PDFs. Classifies clinical reports (radiology, pathology, surgery and more) and extracts structured data.
 
